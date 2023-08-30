@@ -1,2 +1,4 @@
 # Sentiment-Analysis
-Sentiment Analysis using BERT, Roberta and Vader Model
+Sentiment Analysis using BERT, Roberta, and Vader Models
+
+
